@@ -9,7 +9,7 @@ Fullstack project to calculate insurance claim payouts using a simple frontend a
 /
 ├── ClaimSorted - backend/ # Azure Functions (.NET 7, C#)
 ├── root # React client (Vite + TypeScript)
-├── README.md
+└── README.md
 
 ---
 
